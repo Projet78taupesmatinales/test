@@ -1,0 +1,28 @@
+############################
+### Don't change this :) ###
+theme: jekyll-theme-cayman #
+############################
+
+# type a title, subtitle, and a description for your project:
+# when making changes be sure NOT TO DELETE 
+# title: 
+# subtitle:
+# description:
+# only change what is written after the colon or "double-point" (:)
+
+# Below change "Project Title" to your title (should be less than 5 words)
+title: Les p’tites mains vertes
+# Below change "Project Subtitle" to your subtitle (should be around 10 words; no more than 15)
+subtitle: Sensibiliser par la pratique aux enjeux de l'alimentation
+# Below change "This is a ..." to your project description (can be up to 280 characters)
+description: Comment s'alimenter de façon écologiquement responsable et éthique ? en favorisant les filières courtes et en repensant notre façon de s'alimenter par la création de jardins éducatifs en partenariat avec des producteurs locaux.
+
+menu: [
+  {'display_name': 'Home', 'page_name': 'index'},
+  {'display_name': 'Note d intention', 'page_name': 'Notedintention'},
+  {'display_name': 'Business Plan', 'page_name': 'Business Plan'},
+  {'display_name': 'Livret explicatif aux parents', 'page_name': 'LivretParents'},
+  {'display_name': 'Tous nos documents', 'page_name': 'PDF'},
+  {'display_name': 'About us', 'page_name': 'about'},
+  
+]
